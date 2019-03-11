@@ -1,4 +1,4 @@
-BP69-01	Better In Time
+PP69-01	Better In Time
 BP67-02	Piece of My heart
 BP52-03	Phantom Of The Opera
 BP54-03	Summer Rain
@@ -9,6 +9,46 @@ BP74-07	Dangerous
 BP60-08	One Night in Bangkok
 BP63-09	The Sweet Escape
 BP71-10	Sober
+
+
+
+- BP48-01	one of us
+- BP62-01	i believe in dreams
+- BP65-01	way of life
+- BP67-01	bleeding love
+- BP68-01	perfect day
+- BP69-01	better in time
+- BP72-01	if
+
+- BP44-02	don't you want me
+- BP78-02	beautiful monster
+
+- BP52-03	phantom of the opera
+
+- BP73-04	mysterious times
+- BP77-04	hold me tonight
+- BP78-04	tonight is the night 2010
+- BP81-04	ravers fantasy
+
+- BP48-05	kotahitanga
+- BP86-05	50 ways to say goodbye
+
+- BP62-06	weight of the world
+- BP78-06	raise your glass
+- BP81-06	dynamite
+
+- BP79-07	granade
+- BP90-07	stay the night
+- BP92-07	nrg
+
+- BP48-08	tribal dance
+- BP82-08	be cool 2011
+- BP96-08	addicted to a memory
+
+- BP56-09	do you really want to hurt me
+- BP56-10	angels
+
+
 
 BA38-05	My Love
 BA40-03	Africa
