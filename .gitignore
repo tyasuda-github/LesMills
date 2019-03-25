@@ -1,9 +1,12 @@
 *.bak
-*.skrold
-*.xcix
-*.pdf
-*.tif
-*.prn
-*.json
 *.emf
+*.json
 *.log
+*.pdf
+*.prn
+*.skrold
+*.tif
+*.xcix
+*ÉRÉsÅ[.*
+- *.*
+desktop.ini
